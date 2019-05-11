@@ -1,2 +1,3 @@
 # Impulse X
-Application programmed in Node Js, Electron Js with tor networking support.
+
+Customized application for loading the Impulse X Tor Website, essentiually just an alternative to running through the Tor Browser.
