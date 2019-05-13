@@ -1,8 +1,10 @@
 # Impulse<sup>x</sup>
 Impulse<sup>x</sup> creates a secure connection to the tor-network at application launch. The application has the following features:
-- Discord rich presence intigration
-- Secure and encrypted connection to the onion domain via tor-network.
+- Secure and encrypted connection to the onion domain via tor-network nodes.
+- AutoUpdater that automatically downloads new updates from this github repository. 
+- Discord RPC Integration.
 - A sleek user friendly interface inspired by Ubuntu's Window GUI. 
+- Options to use a dark theme, or light theme.
 
 ## Running the application
 Sometimes running an application isn't as easy as clicking run. Please make sure you follow our instructions so the application works. 
