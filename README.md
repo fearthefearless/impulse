@@ -15,3 +15,6 @@ In order for the application to work tor must be installed from either homebrew 
 
 ### Linux
 Similar to Mac OSx tor needs to be installed from commandline, however it is less work. To install tor type `apt install tor` or `yum install tor`. Once tor installed no other work is needed, just download and run the application. 
+
+## Issues/Suggestions
+If you have any issues with the application feel free to create an issue under this repository. If you have any suggestions please feel free to post under the issues with an enhancement tag. Thanks to those who are active and report errors. 
